@@ -5,10 +5,9 @@
 }
 .main{
     width:100%;
-    background-image:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url("../web/images/1.jpg");
-    Background-position:center;
+    background-color:mediumseagreen;
     background-size:cover; 
-    height:100vh;
+    height:100%;
 }
 
 .navbar{
